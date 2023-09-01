@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+button {
+	width: 100px;
+	height: 40px;
+	background: red;
+	border:none;
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+    margin-left: 20px;   
+}
+button:hover{
+	background: black;
+	color: white;
+}
+
+.continar{
+	width: 600px;
+	height: 350px;
+	background: yellow;
+	margin: auto;
+	margin-top: 50px;
+	padding: 30px 30px;
+	text-transform: capitalize;
+	line-height: 23px;
+	box-sizing: border-box;
+}
